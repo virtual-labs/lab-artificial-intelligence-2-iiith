@@ -8,7 +8,7 @@
   "lab_display_name": "Artificial Intelligence II",
   "phase": "3-ext",
   "collegeName": "IIITH",
-  "baseUrl": "",
+  "baseUrl": "ai2-iiith.vlabs.ac.in",
   "introduction": "The Artificial Intelligence II Virtual Lab is an advanced educational platform designed to provide students with an interactive and engaging environment for understanding key AI methodologies. This lab focuses on a hands-on exploration of foundational and advanced algorithms, including Uniform Cost Search, Iterative Deepening Depth First Search, A* Search, and others. By bridging the gap between theoretical knowledge and practical applications, the lab facilitates a deeper comprehension of the mechanics and implications of these AI techniques. Students can visualize, control, and analyze these algorithms in dynamic scenarios through structured experiments and simulations, enhancing their critical thinking and problem-solving skills. This virtual lab is a crucial resource for developing proficiency in artificial intelligence, preparing learners for academic challenges and real-world problem-solving in modern computational environments.",
   "experiments": [
     {
