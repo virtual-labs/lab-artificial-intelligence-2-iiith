@@ -61,7 +61,7 @@
   },
   "objective": "The key objectives of the Artificial Intelligence II Virtual Lab are:<br><ol><li>Facilitate a deep understanding of search algorithms such as Uniform Cost Search, Iterative Deepening Depth First Search, A* Search, and Hill Climbing through interactive simulations.</li><li>Enable students to control parameters like branching factor, tree depth, and heuristics to observe how these affect algorithm execution and outcomes in varied scenarios.</li><li>Provide students with hands-on experience to analyze and solve AI-related problems by applying algorithms in structured virtual experiments.</li></ol>",
   "courseAlignment": {
-    "description": "The proposed Artificial Intelligence II Lab aligns with the curricula of multiple institutions, ensuring that the lab content meets the learning objectives and enhances academic programs.<br> The courses that align with the extended experiments for Artificial Intelligence II Lab are",
+    "description": "The proposed Artificial Intelligence II Lab aligns with the curricula of multiple institutions, ensuring that the lab content meets the learning objectives and enhances academic programs.The courses that align with the extended experiments for Artificial Intelligence II Lab are",
     "universities": [
       "Pondicheri University; B.Tech in Artificial Intelligence.",
       "JNTU; B.Tech in Computer Science and Engineering",
